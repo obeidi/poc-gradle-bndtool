@@ -1,3 +1,3 @@
 # poc-gradle-bndtools
 
-first try
+first Draft /*** Man At Work ****/ :)
